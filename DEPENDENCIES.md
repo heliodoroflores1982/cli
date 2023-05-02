@@ -574,6 +574,7 @@ graph LR;
   npm-->text-table;
   npm-->tiny-relative-date;
   npm-->treeverse;
+  npm-->tufjs-repo-mock["@tufjs/repo-mock"];
   npm-->validate-npm-package-name;
   npm-->which;
   npm-->write-file-atomic;
