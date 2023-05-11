@@ -567,6 +567,7 @@ graph LR;
   npm-->remark-github;
   npm-->remark;
   npm-->semver;
+  npm-->sigstore;
   npm-->spawk;
   npm-->ssri;
   npm-->tap;
